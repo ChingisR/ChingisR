@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ChingisR
-- 👀 I’m interested in Data Science, Big Data, Economics, React, Next
-- 🌱 I’m currently learning Scala
+- 👋 Hi, I’m @Chingis
+- 👀 I’m interested in Data Science, Big Data, Economics, agent-based modelling, time series models, React, Next
+- 🌱 I’m currently learning Scala, PySpark
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: please email me crustemov@gmail.com
 
